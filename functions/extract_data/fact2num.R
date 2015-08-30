@@ -1,0 +1,1 @@
+fact2num <- function(x){x <- as.numeric(as.character(x)); return(x)}

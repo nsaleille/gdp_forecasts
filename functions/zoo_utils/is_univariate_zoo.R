@@ -1,0 +1,1 @@
+is.univariate.zoos <- function(x){is.null(dim(coredata(x)))}

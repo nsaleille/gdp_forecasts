@@ -1,0 +1,1 @@
+get_desc <- function (ids){search.full$desc[ids]}

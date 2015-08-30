@@ -1,0 +1,1 @@
+get_zoo <- function(x){lapply(x, function(x) x$zoo)}
